@@ -1,5 +1,5 @@
 ## 🧩 Customer Segmentation - Unsupervised ML Project 
-This is my fourth project developed as part of the Big Blue Data Academy Data Science Bootcamp. 
+This is my fourth 6-hour project developed as part of the Big Blue Data Academy Data Science Bootcamp. 
 
 In this project me and my team developed built a machine learning model that applies K-Means clustering to segment customers based on their age, annual income, and spending score.
 🎯 Objective: Identify distinct customer groups and provide business insights and marketing strategies for each segment.
